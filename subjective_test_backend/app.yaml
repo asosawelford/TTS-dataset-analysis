@@ -1,0 +1,6 @@
+runtime: python310
+env: standard
+service: back
+
+env_variables:
+  PORT: 8000
